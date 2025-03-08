@@ -49,6 +49,7 @@ InsightPlot is an automated data visualization tool built with Streamlit. It all
 
 ## Contributors
 [Ajay M ](https://github.com/ajayy-m)
+
 [Abdul Rahim](https://github.com/abdulrahim860)
 ## License
 
