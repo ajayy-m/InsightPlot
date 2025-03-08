@@ -1,5 +1,3 @@
-
-```markdown
 # InsightPlot 📈 - Automated Visualization
 
 InsightPlot is an automated data visualization tool built with Streamlit. It allows users to upload a CSV file and automatically generate insightful plots—such as bar charts, scatter plots, and histograms—without writing any code.
