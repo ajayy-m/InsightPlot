@@ -15,8 +15,8 @@ InsightPlot is an automated data visualization tool built with Streamlit. It all
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/insightplot.git
-   cd insightplot
+   git clone https://github.com/ajayy-m/InsightPlot.git
+   cd InsightPlot
    ```
 
 2. **Install Dependencies:**
@@ -47,10 +47,9 @@ InsightPlot is an automated data visualization tool built with Streamlit. It all
 
    The app will display your selected plot along with basic customization such as title and labels.
 
-## Contributing
-
-Contributions are welcome! If you have ideas or improvements, please create an issue or submit a pull request.
-
+## Contributors
+[Ajay M ](https://github.com/ajayy-m)
+[Abdul Rahim](https://github.com/abdulrahim860)
 ## License
 
 This project is licensed under the [Apache 2.0](LICENSE).
