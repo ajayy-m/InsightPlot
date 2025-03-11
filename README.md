@@ -32,7 +32,7 @@ InsightPlot is an automated data visualization tool built with Streamlit. It all
 1. **Run the Streamlit App:**
 
    ```bash
-   streamlit run insight_plot.py
+   streamlit run main.py
    ```
 
 2. **Upload Your CSV File:**
